@@ -1,6 +1,5 @@
 
 package com.m2GDIL.backend_uniprojet.sessionuniversitaire;
-import com.m2GDIL.backend_uniprojet.sessionuniversitaire.SessionUniversitaire;
 
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
